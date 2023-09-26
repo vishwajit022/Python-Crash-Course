@@ -41,5 +41,4 @@ def main():
 
     print("Thanks for playing!")
 
-if __name__ == "__main__":
-    main()
+main()
